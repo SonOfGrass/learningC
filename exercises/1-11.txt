@@ -1,0 +1,1 @@
+To test the program, I would try a series of spaces, newlines, and tabs without any characters. 
